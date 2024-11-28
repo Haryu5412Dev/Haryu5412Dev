@@ -1,5 +1,5 @@
 ## 👋 Hello, World!
-**My name is Ryu ji woo!** 
+**Hello! My name is Ryu ji woo!** 
 Thanks for come my Github Page :3
 <br/>
 
