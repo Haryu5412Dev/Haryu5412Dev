@@ -1,3 +1,4 @@
+
 ## 👋 Hello, World!
 **Hello! My name is Ryu Ji Woo, and my nickname is Haryu5412!**  
 Thank you for visiting my GitHub page! :3  
@@ -10,6 +11,8 @@ And I am 17 years old :D
 
 ## 📚 My GitHub Stats
 [![Haryu5412Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaryu5412Dev%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 
 ## 💻 My Solved.ac
@@ -18,7 +21,8 @@ And I am 17 years old :D
 <br/>
 
 ## 🎮 My Other Social Media Accounts
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Haryu5412) [![GameBanana](https://img.shields.io/badge/GameBanana-3c1e00?style=flat-square&logo=gamebanana&logoColor=white)](https://gamebanana.com/members/2087282)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Haryu5412) 
+[![GameBanana](https://img.shields.io/badge/GameBanana-3c1e00?style=for-the-badge&logo=gamebanana&logoColor=white)](https://gamebanana.com/members/2087282) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rjw20081001@gmail.com)
 <br/>
 
 ## 🛠️ Programs I'm Using
