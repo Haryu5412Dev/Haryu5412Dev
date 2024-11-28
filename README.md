@@ -13,4 +13,5 @@ And I am 17 years old :D
 
 ## 🎮 My Other Social Media Accounts
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Haryu5412)
+[![GameBanana](https://img.shields.io/badge/GameBanana-3c1e00?style=flat-square&logo=gamebanana&logoColor=white)](https://gamebanana.com/members/2087282)
 
