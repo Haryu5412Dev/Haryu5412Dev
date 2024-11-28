@@ -12,7 +12,7 @@ I like all kind of cats (specially little kitty)
 
 ## 📚 My GitHub Stats
 [![Haryu5412Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Haryu5412Dev&theme=python-dark&locale=ko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Haryu5412Dev&theme=python-dark&locale=en)](https://git.io/streak-stats)
 <!-- <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <br/>
