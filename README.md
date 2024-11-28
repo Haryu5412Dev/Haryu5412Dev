@@ -1,5 +1,5 @@
 
-## 👋 Hello, World!
+## ⌚ The World
 **Hello! My name is Ryu Ji Woo, and my nickname is Haryu5412!**  
 Thank you for visiting my GitHub page! :3  
 <br/>
