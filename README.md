@@ -10,13 +10,16 @@ And I am 17 years old :D
 
 ## 📚 My GitHub Stats
 [![Haryu5412Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 ## 💻 My Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rjw1001)](https://solved.ac/rjw1001)
 ![rjw1001 profile](http://mazandi.herokuapp.com/api?handle=rjw1001&theme=dark)
+<br/>
 
 ## 🎮 My Other Social Media Accounts
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Haryu5412) [![GameBanana](https://img.shields.io/badge/GameBanana-3c1e00?style=flat-square&logo=gamebanana&logoColor=white)](https://gamebanana.com/members/2087282)
+<br/>
 
 ## 🛠️ Programs I'm Using
 <div>
@@ -27,6 +30,7 @@ And I am 17 years old :D
         <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
     </a>
 </div>
+<br/>
 
 ## 📚 Languages I'm Studying
 <div>
@@ -46,6 +50,7 @@ And I am 17 years old :D
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
     </a>
 </div>
+<br/>
 
 ## 📘 Languages I Can Use
 <div>
