@@ -1,6 +1,6 @@
 ## 👋 Hello, World!
-**Hello! My name is Ryu ji woo!** 
-Thanks for come my Github Page :3
+**Hello! My name is Ryu Ji Woo, and my nickname is Haryu5412!**  
+Thank you for visiting my GitHub page! :3  
 <br/>
 
 ## 📒 About Me
