@@ -7,6 +7,7 @@ Thank you for visiting my GitHub page! :3
 ## 📒 About Me
 I am a 24th-grade student in the AI Department at Gyeongbuk Software High School,
 And I am 17 years old :D
+I like all kind of cats (specially little kitty) 
 <br/>
 
 ## 📚 My GitHub Stats
