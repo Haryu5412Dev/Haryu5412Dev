@@ -9,7 +9,7 @@ And I am 17 years old :D
 <br/>
 
 ## 📚 My GitHub Stats
-[![Haryu5412Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Haryu5412Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Haryu5412Dev/Haryu5412Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
