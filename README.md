@@ -11,9 +11,9 @@ I like all kind of cats (specially little kitty)
 <br/>
 
 ## 📚 My GitHub Stats
-[![Haryu5412Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Haryu5412Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 <br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaryu5412Dev%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ## 💻 My Solved.ac
