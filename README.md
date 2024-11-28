@@ -20,24 +20,47 @@ And I am 17 years old :D
 
 ## 🛠️ Programs I'm Using
 <div>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-    <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
+        <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+    </a>
 </div>
 
 ## 📚 Languages I'm Studying
 <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+    </a>
+    <a href="https://www.oracle.com/java/" target="_blank">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+    </a>
+    <a href="https://spring.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
+    </a>
 </div>
 
 ## 📘 Languages I Can Use
 <div>
-    <img src="https://img.shields.io/badge/Haxe-EE812F?style=flat-square&logo=haxe&logoColor=white" alt="Haxe"/>
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C Language"/>
+    <a href="https://haxe.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Haxe-EE812F?style=flat-square&logo=haxe&logoColor=white" alt="Haxe"/>
+    </a>
+    <a href="https://www.lua.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C Language"/>
+    </a>
 </div>
+
 
