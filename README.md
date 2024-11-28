@@ -8,7 +8,7 @@ I am a 24th-grade student in the AI Department at Gyeongbuk Software High School
 And I am 17 years old :D
 <br/>
 
-# 📚 My GitHub Stats
+## 📚 My GitHub Stats
 [![Haryu5412Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
