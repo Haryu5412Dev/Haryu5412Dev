@@ -1,8 +1,11 @@
+<div align="center">
+<pre>
  __  __    _    ___ _   _ 
 |  \/  |  / \  |_ _| \ | |
 | |\/| | / _ \  | ||  \| |
 | |  | |/ ___ \ | || |\  |
 |_|  |_/_/   \_\___|_| \_|
+</pre>
 
 +-------------------------+--------------------------------------------+---------------------------+
 |        About Me         |               I'm Learning                 |          My Goal          |
@@ -14,12 +17,13 @@
 | School: GBSW            |                                            |                           |
 +-------------------------+--------------------------------------------+---------------------------+
 
+<div style="text-align: center;">
+  <img src="https://skillicons.dev/icons?i=spring,java,py,js,html,css,lua,haxe,vscode,intellij" alt="Skill Icons" />
+</div>
+
 ## 📚 My GitHub Stats
-[![Haryu5412Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Haryu5412Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Haryu5412Dev&theme=python-dark&locale=en)](https://git.io/streak-stats)
-<!-- <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-<br/>
 
 ## 🎮 My Other Social Media Accounts
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Haryu5412)
@@ -41,3 +45,10 @@
 [![Haxe](https://img.shields.io/badge/Haxe-EE812F?style=for-the-badge&logo=haxe&logoColor=white)](https://haxe.org/)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+<br/>
+
+<img src="https://github.com/Haryu5412Dev/Haryu5412Dev/blob/output/github-contribution-grid-snake.svg" />
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+</div>
