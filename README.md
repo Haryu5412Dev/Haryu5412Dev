@@ -1,3 +1,19 @@
+ __  __    _    ___ _   _ 
+|  \/  |  / \  |_ _| \ | |
+| |\/| | / _ \  | ||  \| |
+| |  | |/ ___ \ | || |\  |
+|_|  |_/_/   \_\___|_| \_|
+
++-------------------------+--------------------------------------------+---------------------------+
+|        About Me         |               I'm Learning                 |          My Goal          |
++-------------------------+--------------------------------------------+---------------------------+
+| Name  : Haryu5412       | Python                                     | Become a backend dev      |
+| GitHub: haryu5412dev    | Spring Boot                                | Get my first job          |
+| Age   : 17              | Java                                       |                           |
+| Gender: he/him          | API integration                            |                           |
+| School: GBSW            |                                            |                           |
++-------------------------+--------------------------------------------+---------------------------+
+
 ## 📚 My GitHub Stats
 [![Haryu5412Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Haryu5412Dev&theme=python-dark&locale=en)](https://git.io/streak-stats)
