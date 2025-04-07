@@ -1,25 +1,19 @@
 <div align="center">
-<pre>
- __  __    _    ___ _   _ 
-|  \/  |  / \  |_ _| \ | |
-| |\/| | / _ \  | ||  \| |
-| |  | |/ ___ \ | || |\  |
-|_|  |_/_/   \_\___|_| \_|
-</br>
-+-------------------------+--------------------------------------------+---------------------------+
-|        About Me         |               I'm Learning                 |          My Goal          |
-+-------------------------+--------------------------------------------+---------------------------+
-| Name  : Haryu5412       | Python                                     | Become a backend dev      |
-| GitHub: haryu5412dev    | Spring Boot                                | Get my first job          |
-| Age   : 17              | Java                                       |                           |
-| Gender: he/him          | API integration                            |                           |
-| School: GBSW            |                                            |                           |
-+-------------------------+--------------------------------------------+---------------------------+
+## 👋 About Me
+- **Name:** Haryu5412 (a.k.a haryu5412dev)
+- **Age:** 17
+- **Gender:** he/him
+- **School:** GBSW
+- **Goal:** Become a backend developer & land my first job
 
-</pre>
+## 🧠 What I'm Learning
+- 🔹 Python
+- 🔹 Java
+- 🔹 Spring Boot
+- 🔹 API Integration
 
 <div style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=spring,java,py,js,html,css,lua,haxe,vscode,intellij" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=spring,java,py,lua,haxe,vscode,intellij" alt="Skill Icons" />
 </div>
 
 ## 📚 My GitHub Stats
