@@ -5,7 +5,6 @@
 | |\/| | / _ \  | ||  \| |
 | |  | |/ ___ \ | || |\  |
 |_|  |_/_/   \_\___|_| \_|
-</pre>
 
 +-------------------------+--------------------------------------------+---------------------------+
 |        About Me         |               I'm Learning                 |          My Goal          |
@@ -16,6 +15,8 @@
 | Gender: he/him          | API integration                            |                           |
 | School: GBSW            |                                            |                           |
 +-------------------------+--------------------------------------------+---------------------------+
+
+</pre>
 
 <div style="text-align: center;">
   <img src="https://skillicons.dev/icons?i=spring,java,py,js,html,css,lua,haxe,vscode,intellij" alt="Skill Icons" />
