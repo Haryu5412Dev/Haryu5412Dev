@@ -10,6 +10,14 @@
 
 <br/>
 
+## 🛠️ Programs I'm Using
+
+<div style="text-align: center;">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" alt="Skill Icons" />
+</div>
+
+<br/>
+
 ## 🧠 What I'm Studying && Using
 
 <div style="text-align: center;">
@@ -30,13 +38,5 @@
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Haryu5412)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rjw20081001@gmail.com)
 [![GameBanana](https://img.shields.io/badge/GameBanana-3c1e00?style=for-the-badge&logo=gamebanana&logoColor=white)](https://gamebanana.com/members/2087282)
-
-<br/>
-
-## 🛠️ Programs I'm Using
-
-<div style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" alt="Skill Icons" />
-</div>
 
 <br/>
