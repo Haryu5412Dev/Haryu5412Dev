@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🧠 What I'm Learning
+## 🧠 What I'm Looking At
 
 🔹 Python  
 🔹 Java  
