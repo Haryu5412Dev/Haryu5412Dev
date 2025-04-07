@@ -20,7 +20,7 @@
 <br/>
 
 <div style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=spring,java,py,lua,haxe,vscode,intellij" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=spring,java,py,lua,haxe,haxeflixel,vscode,visualstudio,idea" alt="Skill Icons" />
 </div>
 
 <br/>
