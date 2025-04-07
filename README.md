@@ -1,25 +1,8 @@
-
-## ⌚ The World
-**Hello! My name is Ryu Ji Woo, and my nickname is Haryu5412!**  
-Thank you for visiting my GitHub page! :3  
-<br/>
-
-## 📒 About Me
-I am a 24th-grade student in the AI Department at Gyeongbuk Software High School,
-And I am 17 years old :D <br/>
-I like all kind of cats (specially little kitty) 
-<br/>
-
 ## 📚 My GitHub Stats
 [![Haryu5412Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Haryu5412Dev&theme=python-dark&locale=en)](https://git.io/streak-stats)
 <!-- <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-<br/>
-
-## 💻 My Solved.ac
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rjw1001)](https://solved.ac/rjw1001)
-![rjw1001 profile](http://mazandi.herokuapp.com/api?handle=rjw1001&theme=dark)
 <br/>
 
 ## 🎮 My Other Social Media Accounts
@@ -42,4 +25,3 @@ I like all kind of cats (specially little kitty)
 [![Haxe](https://img.shields.io/badge/Haxe-EE812F?style=for-the-badge&logo=haxe&logoColor=white)](https://haxe.org/)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C Language](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
