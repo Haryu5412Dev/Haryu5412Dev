@@ -13,7 +13,7 @@
 ## 🛠️ Programs I'm Using
 
 <div style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,github,git" alt="Skill Icons" />
 </div>
 
 <br/>
@@ -21,7 +21,7 @@
 ## 🧠 What I'm Studying && Using
 
 <div style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=spring,java,py,lua,haxe,haxeflixel" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=spring,java,py,lua,haxe,haxeflixel,git" alt="Skill Icons" />
 </div>
 
 <br/>
