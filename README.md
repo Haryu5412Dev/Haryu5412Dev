@@ -1,17 +1,17 @@
 <div align="center">
   
 ## 👋 About Me
-- **Name:** Haryu5412 (a.k.a haryu5412dev)
-- **Age:** 17
-- **Gender:** he/him
-- **School:** GBSW
-- **Goal:** Become a backend developer & land my first job
+  **Name:** Haryu5412 (a.k.a haryu5412dev)
+  **Age:** 17
+  **Gender:** he/him
+  **School:** GBSW
+  **Goal:** Become a backend developer & land my first job
 
 ## 🧠 What I'm Learning
-- 🔹 Python
-- 🔹 Java
-- 🔹 Spring Boot
-- 🔹 API Integration
+  🔹 Python
+  🔹 Java
+  🔹 Spring Boot
+  🔹 API Integration
 
 <div style="text-align: center;">
   <img src="https://skillicons.dev/icons?i=spring,java,py,lua,haxe,vscode,intellij" alt="Skill Icons" />
