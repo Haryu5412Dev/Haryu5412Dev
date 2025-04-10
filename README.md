@@ -2,8 +2,8 @@
 
 ## 👋 About Me
 
-**Nickname:** Haryu5412
-**Name:** Ryu ji woo
+**Nickname:** Haryu5412  
+**Name:** Ryu ji woo  
 **Age:** 17  
 **Gender:** he/him  
 **School:** GBSW  
