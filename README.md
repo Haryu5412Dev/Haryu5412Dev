@@ -14,7 +14,21 @@
 ## 🛠️ Programs I'm Using
 
 <div style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,github,git" alt="Skill Icons" />
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
 </div>
 
 <br/>
@@ -22,7 +36,12 @@
 ## ☁️ Cloud Services I'm Using
 
 <div style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=aws,gcp" alt="Cloud Icons" />
+  <a href="https://aws.amazon.com/">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  </a>
+  <a href="https://cloud.google.com/">
+    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
+  </a>
 </div>
 
 <br/>
@@ -30,7 +49,27 @@
 ## 🧠 What I'm Studying && Using
 
 <div style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=spring,java,py,lua,haxe,haxeflixel,git" alt="Skill Icons" />
+  <a href="https://spring.io/">
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+  </a>
+  <a href="https://www.lua.org/">
+    <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
+  </a>
+  <a href="https://haxe.org/">
+    <img src="https://skillicons.dev/icons?i=haxe" alt="Haxe" />
+  </a>
+  <a href="https://haxeflixel.com/">
+    <img src="https://skillicons.dev/icons?i=haxeflixel" alt="HaxeFlixel" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
 </div>
 
 <br/>
