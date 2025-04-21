@@ -19,6 +19,14 @@
 
 <br/>
 
+## ☁️ Cloud Services I'm Using
+
+<div style="text-align: center;">
+  <img src="https://skillicons.dev/icons?i=aws,gcp" alt="Cloud Icons" />
+</div>
+
+<br/>
+
 ## 🧠 What I'm Studying && Using
 
 <div style="text-align: center;">
