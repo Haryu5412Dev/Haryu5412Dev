@@ -65,3 +65,13 @@
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haryu5412dev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 ---
+
+## 📗 Projects
+
+| 이름 | 설명 | 역할 | 진행도 |
+|------|------|------|------|
+| **ROOMIT** | 캡스톤 (맞춤형 매물 추천 시스템) | AI | 진행중 |
+| **DtoA Project** | 경소마고 동아리 관리 사이트 | Backend | 진행중 |
+| **소방 프로젝트(이름 미정)** | 소방관 요청으로 만드는 프로젝트 | Backend | 진행중 |
+
+---
