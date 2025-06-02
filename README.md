@@ -1,17 +1,12 @@
-<div align="center">
+### 어릴때부터 소규모 게임의 모드 개발을 꾸준히 해오고,
+### 주족하지만 계속 노력하고 찾아보며 열심히 하는 
+### 현재 경북소프트웨어마이스터고등학교에 재학중인 백엔드 개발자 류지우 입니다.
 
-## 👋 About Me
+---
 
-**Nickname:** Haryu5412  <br>
-**Name:** Ryu ji woo  
-**Age:** 17  
-**Gender:** he/him  
-**School:** GBSW  
-**Goal:** Become a backend developer & land my first job
+## 📚 Skills
 
-<br/>
-
-## 🛠️ Programs I'm Using
+### 🛠️ 개발할때 사용중인 프로그램
 
 <div style="text-align: center;">
   <a href="https://code.visualstudio.com/">
@@ -33,21 +28,22 @@
 
 <br/>
 
-## ☁️ Cloud Services I'm Using
-
+### 🎨 프론트엔드 관련 언어
 <div style="text-align: center;">
-  <a href="https://aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   </a>
-  <a href="https://cloud.google.com/">
-    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   </a>
 </div>
 
 <br/>
 
-## 🧠 What I'm Studying && Using
-
+### 🛠️ 백엔드 관련 언어 및 프레임워크
 <div style="text-align: center;">
   <a href="https://spring.io/">
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
@@ -58,48 +54,50 @@
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=py" alt="Python" />
   </a>
-  <a href="https://www.lua.org/">
-    <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
+  <a href="https://flask.palletsprojects.com/en/stable/">
+    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
   </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+  </a>
+</div>
+
+
+<br/>
+
+### 🎮 게임 개발 관련 언어 및 프레임워크
+<div style="text-align: center;">
   <a href="https://haxe.org/">
     <img src="https://skillicons.dev/icons?i=haxe" alt="Haxe" />
   </a>
   <a href="https://haxeflixel.com/">
     <img src="https://skillicons.dev/icons?i=haxeflixel" alt="HaxeFlixel" />
   </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <a href="https://www.lua.org/">
+    <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
   </a>
 </div>
 
 <br/>
 
-<!-- ## 📚 My GitHub Stats
+### ☁️ 클라우드 & 인프라
 
-[![Haryu5412Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Haryu5412Dev&theme=python-dark&locale=en)](https://git.io/streak-stats) -->
-
+<div style="text-align: center;">
+  <a href="https://aws.amazon.com/">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  </a>
+  <a href="https://cloud.google.com/">
+    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://www.sqlite.org/">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+  </a>
+</div>
 <br/>
 
-## 🎮 My Other Social Media Accounts
 
-<p align="center">
-  <a href="mailto:rjw20081001@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  
-  <a href="https://www.instagram.com/haryu5412/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-</p>
+---
 
-<!-- <div style="text-align: center;">
-    [<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>](mailto:rjw20081001@gmail.com)
-  [<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>](https://www.instagram.com/haryu5412/)
-</div> -->
-
-<!-- [<img src="https://cdn.simpleicons.org/youtube/FF0000" width="24" alt="YouTube" /> YouTube](https://www.youtube.com/@Haryu5412)  
-[<img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" alt="Gmail" /> Gmail](mailto:rjw20081001@gmail.com)  
-[<img src="https://cdn.simpleicons.org/gamebanana/3c1e00" width="24" alt="GameBanana" /> GameBanana](https://gamebanana.com/members/2087282) -->
-
-<br/>
