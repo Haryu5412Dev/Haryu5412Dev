@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td><strong>🛠️ 개발할 때 사용 중인 프로그램</strong></td>
-    <td><strong>🎨 프론트엔드 관련 언어</strong></td>
+    <td><strong>🎨 프론트엔드 관련 언어 및 앱</strong></td>
   </tr>
   <tr>
     <td>
@@ -27,6 +27,7 @@
       <img src="https://skillicons.dev/icons?i=html" />
       <img src="https://skillicons.dev/icons?i=js" />
       <img src="https://skillicons.dev/icons?i=css" />
+      <img src="https://skillicons.dev/icons?i=figma" />
     </td>
   </tr>
   <tr>
@@ -44,6 +45,7 @@
     <td>
       <img src="https://skillicons.dev/icons?i=haxe" />
       <img src="https://skillicons.dev/icons?i=haxeflixel" />
+      <img src="https://skillicons.dev/icons?i=cpp" />
       <img src="https://skillicons.dev/icons?i=lua" />
     </td>
   </tr>
