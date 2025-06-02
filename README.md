@@ -55,3 +55,9 @@
 
 ---
 
+## ⚡ Github Stats
+
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haryu5412dev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+
+---
