@@ -14,20 +14,20 @@
 
 ## 🧠 Skills
 
-<table>
+<table style="text-align: center;">
   <tr>
-    <td><strong>🛠️ 개발할 때 사용 중인 프로그램</strong></td>
-    <td><strong>🎨 프론트엔드 관련 언어 및 앱</strong></td>
+    <td style="text-align: center;"><strong>🛠️ 개발할 때 사용 중인 프로그램</strong></td>
+    <td style="text-align: center;"><strong>🎨 프론트엔드 관련 언어 및 앱</strong></td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align: center;">
       <img src="https://skillicons.dev/icons?i=vscode" />
       <img src="https://skillicons.dev/icons?i=visualstudio" />
       <img src="https://skillicons.dev/icons?i=idea" />
       <img src="https://skillicons.dev/icons?i=github" />
       <img src="https://skillicons.dev/icons?i=git" />
     </td>
-    <td>
+    <td style="text-align: center;">
       <img src="https://skillicons.dev/icons?i=html" />
       <img src="https://skillicons.dev/icons?i=js" />
       <img src="https://skillicons.dev/icons?i=css" />
@@ -35,18 +35,18 @@
     </td>
   </tr>
   <tr>
-    <td><strong>🛠️ 백엔드 관련 언어 및 프레임워크</strong></td>
-    <td><strong>🎮 게임 개발 관련 언어 및 프레임워크</strong></td>
+    <td style="text-align: center;"><strong>🛠️ 백엔드 관련 언어 및 프레임워크</strong></td>
+    <td style="text-align: center;"><strong>🎮 게임 개발 관련 언어 및 프레임워크</strong></td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align: center;">
       <img src="https://skillicons.dev/icons?i=spring" />
       <img src="https://skillicons.dev/icons?i=java" />
       <img src="https://skillicons.dev/icons?i=py" />
       <img src="https://skillicons.dev/icons?i=flask" />
       <img src="https://skillicons.dev/icons?i=fastapi" />
     </td>
-    <td>
+    <td style="text-align: center;">
       <img src="https://skillicons.dev/icons?i=haxe" />
       <img src="https://skillicons.dev/icons?i=haxeflixel" />
       <img src="https://skillicons.dev/icons?i=cpp" />
