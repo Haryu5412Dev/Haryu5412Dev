@@ -6,6 +6,9 @@
 ## ⚪ Haryu5412
 
 "GBSW 24th"
+#### 중학교 때부터 소규모 게임의 모드 개발을 배우며 여러 언어를 꾸준히 해보았고,
+#### 부족하지만 계속해서 노력하고 탐구하며 열심히 성장하고 있는
+#### 경북소프트웨어마이스터고등학교에 재학 중인 백엔드 개발자를 목표로 하고 있습니다!
 
 ---
 
@@ -60,15 +63,5 @@
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haryu5412dev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-
----
-
-## 📗 Projects
-
-| 이름 | 설명 | 역할 | 진행도 |
-|------|------|------|------|
-| **ROOMIT** | 캡스톤 (맞춤형 매물 추천 시스템) | AI | 진행중 |
-| **DtoA Project** | 경소마고 동아리 관리 사이트 | Backend | 진행중 |
-| **소방 프로젝트(이름 미정)** | 소방관 요청으로 만드는 프로젝트 | Backend | 진행중 |
 
 ---
