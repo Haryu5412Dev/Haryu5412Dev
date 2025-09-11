@@ -26,7 +26,7 @@ class Hayu5412 {
 
 <table style="text-align: center;">
   <tr>
-    <td style="text-align: center;"><strong>🛠Programs I Use for Development</strong></td>
+    <td style="text-align: center;"><strong>Programs I Use for Development</strong></td>
     <td style="text-align: center;"><strong>Frontend Development</strong></td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@ class Hayu5412 {
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>🛠Backend Development</strong></td>
+    <td style="text-align: center;"><strong>Backend Development</strong></td>
     <td style="text-align: center;"><strong>Game Development</strong></td>
   </tr>
   <tr>
