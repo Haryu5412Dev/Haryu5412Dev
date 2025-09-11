@@ -12,7 +12,7 @@ class Hayu5412 {
             school: "Gyeongbuk Software Meister High School",
             interests: ["Back-end", "Game Development"],
             stack: {
-                languages: ["Java", "Python", "C++", "Lua", "Haxe", "Html", "CSS", "Js"],
+                languages: ["Java", "Python", "C", "C++", "Lua", "Haxe", "HScript", "Html", "CSS", "Js"],
                 frameworks: ["Spring Boot", "Flask", "FastAPI", "HaxeFlixel"],
                 tools: ["VS Code", "IntelliJ IDEA", "PyChram", "Visual Studio", "Figma", "Git", "GitHub"]
             }
