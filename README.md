@@ -1,24 +1,33 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 <!-- <div align="center"> -->
 
-## ⚪ Haryu5412
+## About
 
 ```haxe
 class Hayu5412 {
     static function main() {
-        var name = "Hayu5412";
-        var age = 17;
-        var school = "GBSW";
+        var profile = {
+            name: "Hayu5412",
+            age: 17,
+            school: "Gyeongbuk Software Meister High School",
+            interests: ["Back-end", "Game Development"],
+            stack: {
+                languages: ["Java", "Python", "C++", "Lua", "Haxe", "Html", "CSS", "Js"],
+                frameworks: ["Spring Boot", "Flask", "FastAPI", "HaxeFlixel"],
+                tools: ["VS Code", "IntelliJ IDEA", "PyChram", "Visual Studio", "Figma", "Git", "GitHub"]
+            }
+        };
+        trace(profile);
     }
 }
 ```
 
-## 🧠 Skills
+## Skills
 
 <table style="text-align: center;">
   <tr>
-    <td style="text-align: center;"><strong>🛠️ Programs I Use for Development</strong></td>
-    <td style="text-align: center;"><strong>🎨 Frontend Development</strong></td>
+    <td style="text-align: center;"><strong>🛠Programs I Use for Development</strong></td>
+    <td style="text-align: center;"><strong>Frontend Development</strong></td>
   </tr>
   <tr>
     <td style="text-align: center;">
@@ -36,8 +45,8 @@ class Hayu5412 {
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>🛠️ Backend Development</strong></td>
-    <td style="text-align: center;"><strong>🎮 Game Development</strong></td>
+    <td style="text-align: center;"><strong>🛠Backend Development</strong></td>
+    <td style="text-align: center;"><strong>Game Development</strong></td>
   </tr>
   <tr>
     <td style="text-align: center;">
