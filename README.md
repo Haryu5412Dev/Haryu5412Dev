@@ -9,7 +9,7 @@ class Hayu5412 {
         var profile = {
             name: "Hayu5412",
             age: 17,
-            school: "Gyeongbuk Software Meister High School",
+            school: "GSMHS",
             interests: ["Back-end", "Game Development"],
             stack: {
                 languages: ["Java", "Python", "C", "C++", "Lua", "Haxe", "HScript", "Html", "CSS", "Js"],
