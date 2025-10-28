@@ -72,5 +72,3 @@ class Hayu5412 {
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haryu5412dev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-## Wakatime 
-<script src="https://gist.github.com/Haryu5412Dev/9b0d6527a614ce7ff886b779a63ed544.js"></script>
