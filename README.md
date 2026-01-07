@@ -15,7 +15,7 @@ class Hayu5412 {
             stack: {
                 languages: ["Java", "Python", "C", "C++", "Lua", "Haxe", "HScript", "Html", "CSS", "Js"],
                 frameworks: ["Spring Boot", "Flask", "FastAPI", "HaxeFlixel"],
-                tools: ["VS Code", "IntelliJ IDEA", "PyChram", "Visual Studio", "Figma", "Git", "GitHub"]
+                tools: ["VS Code", "IntelliJ IDEA", "Visual Studio", "Figma", "Git", "GitHub"]
             }
         };
         trace(profile);
