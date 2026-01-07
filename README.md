@@ -8,7 +8,8 @@ class Hayu5412 {
     static function main() {
         var profile = {
             name: "Hayu5412",
-            age: 17,
+            age: 18,
+            birthday: new Date(2008, 10, 1),
             school: "GSMHS",
             interests: ["Back-end", "Game Development"],
             stack: {
